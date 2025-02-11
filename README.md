@@ -8,7 +8,12 @@ I also increased the effectiveness of emergency response by giving high-priority
 
 Ability
 
-Spark SQL Data Preprocessing Spark RDD
-Data Visualization, Decision Tree Classification, and Feature Selection
+Spark SQL
+Data Preprocessing
+Spark RDD
+Data Visualization
+Decision Tree Classification 
+Feature Selection
 Analysis of Feature Importance
-Databricks and PySpark
+Databricks 
+PySpark
